@@ -29,6 +29,7 @@ requirements:
     - chardet >=2.3.0
     - python >=${{ python_min }}
     - pyyaml >=3.11
+    - setuptools >=36.2.2
     - typing >=3.6.2
 
 tests:
